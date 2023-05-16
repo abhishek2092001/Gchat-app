@@ -1,0 +1,60 @@
+.chat_section{
+    border: 25px solid #87CBB9;
+    border-bottom: none;
+    border-left: 4px solid #87CBB9;
+    border-right: 4px solid #87CBB9;
+    
+     border-top-left-radius: 8px;
+     border-top-right-radius: 8px;
+    border-bottom-right-radius: none;
+    border-bottom-left-radius: none;
+    height: 600px;
+    width: 60%;
+    margin: auto;
+    overflow-y: auto;
+}
+.brand{
+    text-align: center;
+}
+.inputtext{
+    
+    text-align: center;
+}
+#textarea{
+    width: 59.70%;
+    height: 30px;
+    border: 4px solid #569DAA;
+    border-top: none;
+    text-align: end;
+    font-size:20px;
+    font-weight: bold;
+}
+
+.incoming{
+text-align: left;
+}
+.outgoing{
+text-align: right;
+}
+.message{
+    padding: 9px;
+}
+h4{
+    color: #577D86;
+    font-size :25px;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: -5px;
+}
+p{
+    color: black;
+    font-size :20px;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    color: #577D86;
+}
