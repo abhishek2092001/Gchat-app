@@ -4,7 +4,8 @@
   "description": " ",
   "main": "index.js",
   "scripts": {
-    "div": "nodemon server"
+    "start": "node server.js",         
+    "dev": "nodemon server.js"         
   },
   "author": "abhishek saxena",
   "license": "ISC",
